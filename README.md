@@ -5,5 +5,4 @@
 
 Hi everybody. 
 
-Why I'm here? I don't know. Just want to understand what Github is.
-I like  programming and  test nerves of my friends.
+I decided to know what github is, and that's why I'm here. 
